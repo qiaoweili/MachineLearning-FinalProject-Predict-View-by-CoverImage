@@ -47,5 +47,6 @@ This part is done by both Wenyu and Qiaowei.
 **Reference:**
 
 https://www.youtube.com/watch?v=1Gbcp66yYX4&feature=youtu.be
+
 http://enric.hosting.nyu.edu/notebooks/CNN-VGG-Transfer
 
