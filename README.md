@@ -1,5 +1,5 @@
 # Forecast Views Through Video Cover Images
-## —A Classification Problem Using VGG and ResNet from Machine Learning
+### — A Classification Problem Using VGG and ResNet from Machine Learning
 
 The goal of this project is to have and video cover image as an input, and output the predicted range of number of views the video might have.
 
