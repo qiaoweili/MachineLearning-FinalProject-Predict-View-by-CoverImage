@@ -2,13 +2,13 @@
 ### — A Classification Problem Using VGG and ResNet from Machine Learning
 
 
-The goal of this project is to have and video cover image as an input, and output the predicted range of number of views the video might have.
+The goal of this project is to have and video cover image as an input, and output the predicted range of view numbers.
 
-It helps the video producer to test whether his/her video cover is attractive enough and might help us study human visual aesthetic.
+It helps the video producer to test whether his/her video cover is attractive enough and might further help us study human visual aesthetic.
 
 ### All these data are collected from videos with a 'vlog' tag on www.bilibili.com using Beautifulsoup4.
 
-The attributes we collected are the link of the cover images and the corresponding number of views of the videos.
+The attributes we collected are the link of the cover images and the corresponding video's view numbers.
 
 -**data collecting/bililarge_download.py, bili_download.py**: python files for web scraping and downloading: 
 
@@ -33,7 +33,7 @@ The collection of huge amount of html files are done by both Wenyu and Qiaowei; 
 **dataset_whole_split**: all data we have
 
 
-### The machine learning model we use is Convolutional neural Network(CNN) and Transfer Learning.
+### The machine learning model we use is Convolutional Neural Network(CNN) and Transfer Learning.
 
 We choose VGG16 and Resnet50 as two pretrained models to initialize our task and use logistic regression as the last layer to achieve our classification purpose.
 
