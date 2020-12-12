@@ -1,4 +1,8 @@
-# MachineLearning-FinalProject-Predict-View-by-CoverImage
+# MachineLearning_Fall_2020_Final_Project
+
+# Forecast Views Through Video Cover Images
+# —A Classification Problem Using VGG and ResNet from Machine Learning
+
 The goal of this project is to have and video cover image as an input, and output the predicted range of number of views the video might have.
 
 It helps the video producer to test whether his/her video cover is attractive enough and might help us study human visual aesthetic.
