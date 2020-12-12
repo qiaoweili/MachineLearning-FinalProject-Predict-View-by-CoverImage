@@ -30,7 +30,7 @@ The collection of huge amount of html files are done by both Wenyu and Qiaowei; 
 **dataset_whole_split**: all data we have
 
 
-## The machine learning model we use is Convolutional neural Network(CNN) and Transfer Learning.
+### The machine learning model we use is Convolutional neural Network(CNN) and Transfer Learning.
 
 We choose VGG16 and Resnet50 as two pretrained models to initialize our task and use logistic regression as the last layer to achieve our classification purpose.
 
